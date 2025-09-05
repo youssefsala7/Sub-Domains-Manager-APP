@@ -1,0 +1,14 @@
+# Node/JS
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Build outputs
+dist/
+.next/
+out/
+
+# Env & local
+.env
+.env.*
+.DS_Store
